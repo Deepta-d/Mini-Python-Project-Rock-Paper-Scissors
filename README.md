@@ -3,25 +3,31 @@
 A simple command-line implementation of the classic Rock-Paper-Scissors game where you play against the computer. Test your luck and strategy!
 
 Features
+
 Play as many rounds as you like.
 Keep track of wins and losses for both the player and the computer.
 Handles invalid inputs gracefully.
 Provides an option to quit the game at any time.
+
 How to Play
+
 Clone or download the repository.
 Run the Python script:
 bash
-Copy code
 python rock_paper_scissors.py
 Enter your choice: rock, paper, or scissors.
 The computer will randomly select its move, and the winner will be announced.
 To quit the game, type q.
+
 Rules
+
 Rock beats Scissors.
 Scissors beats Paper.
 Paper beats Rock.
 If both the player and the computer choose the same option, it’s a tie.
+
 Example Gameplay
+
 bash
 Copy code
 Type Rock/Paper/Scissors or Q to quit: rock
