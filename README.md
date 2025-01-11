@@ -29,7 +29,6 @@ If both the player and the computer choose the same option, it’s a tie.
 # Example Gameplay
 
 bash
-Copy code
 Type Rock/Paper/Scissors or Q to quit: rock
 Computer picked scissors.
 You won!
